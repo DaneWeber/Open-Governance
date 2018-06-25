@@ -4,7 +4,7 @@ Interested in speaking at an upcoming TechTalk DC event? Add your information he
 ## Template
 This is meant to be a guide -- don't let it overwhelm you. Give us what you've got and we'll get the rest before we need it.
 
-**Instructions:** Copy and paste the template to the template into the proposed topics section below. Update with your event information. Submit a pull request with your changes!
+**Instructions:** Copy and paste the template into the proposed topics section below. Update with your event information. Submit a pull request with your changes!
 
 * Session Title:
 * Preferred Timeframe:
