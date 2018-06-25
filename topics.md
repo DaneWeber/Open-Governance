@@ -24,6 +24,20 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Paste your proposed topic below here!
 -->
 
+* Session Title: Undercover Scrum Master
+* Preferred Timeframe: [...]
+* Event Type: Lightning Talk
+* Summary: [...]
+* Presenter Name(s): Dane Weber
+* Presenter E-mail(s): [...]
+* Presenter GitHub Account: @daneweber
+* Presenter Blog: [...]
+* Presenter image to include on Meetup.com: [...]
+* Audience Skill Level: All Skill Levels
+* Requirements: Projectors for slides - can use my own laptop or another computer - slides are on github.io
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+
 ## Accepted Topics
 
 ### Painless End to End Testing with Cypress
